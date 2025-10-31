@@ -1,16 +1,23 @@
-# mobile_w7
+# Tugas Minggu 07
 
-A new Flutter project.
+Aplikasi Flutter sederhana untuk mengelola daftar tugas.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- Tambah tugas melalui input teks
+- Tampilkan daftar tugas secara dinamis
+- Edit tugas langsung dari list
+- Hapus tugas dengan satu klik
+- State management menggunakan **Provider**
 
-A few resources to get you started if this is your first Flutter project:
+## Tampilan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Input teks di atas, daftar tugas di bawah, dengan tombol edit dan hapus di setiap item.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalasi
+
+1. Clone repositori ini:
+
+   ```bash
+   git clone https://github.com/fiz77/MobileW7.git
+   cd MobileW7
