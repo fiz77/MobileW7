@@ -1,20 +1,20 @@
-# 📱 Tugas Minggu 07 - Flutter App
+# Tugas Minggu 07 - Flutter App
 
 Aplikasi Flutter sederhana untuk mengelola daftar tugas.
 
-## 🎯 Fitur
+## Fitur
 
-- ✅ Tambah tugas melalui input teks
-- ✅ Tampilkan daftar tugas secara dinamis
-- ✅ Edit tugas
-- ✅ Hapus tugas
-- ✅ State management menggunakan **Provider**
+- Tambah tugas melalui input teks
+- Tampilkan daftar tugas secara dinamis
+- Edit tugas
+- Hapus tugas
+- State management menggunakan **Provider**
 
-## 📸 Tampilan
+## Tampilan
 
 > Input teks di atas, daftar tugas di bawah, dengan tombol edit dan hapus di setiap item.
 
-## 🛠️ Instalasi
+## Instalasi
 
 1. Clone repositori ini:
 
