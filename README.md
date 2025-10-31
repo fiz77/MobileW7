@@ -1,23 +1,16 @@
-# Tugas Minggu 07 - Flutter App
+# mobile_w7
 
-Aplikasi Flutter sederhana untuk mengelola daftar tugas.
+A new Flutter project.
 
-## Fitur
+## Getting Started
 
-- Tambah tugas melalui input teks
-- Tampilkan daftar tugas secara dinamis
-- Edit tugas
-- Hapus tugas
-- State management menggunakan **Provider**
+This project is a starting point for a Flutter application.
 
-## Tampilan
+A few resources to get you started if this is your first Flutter project:
 
-> Input teks di atas, daftar tugas di bawah, dengan tombol edit dan hapus di setiap item.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Instalasi
-
-1. Clone repositori ini:
-
-   ```bash
-   git clone https://github.com/username/flutter-tugas-minggu07.git
-   cd flutter-tugas-minggu07
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
